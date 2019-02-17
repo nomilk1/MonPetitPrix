@@ -21,4 +21,12 @@
         android:text="Switch"
         tools:layout_editor_absoluteX="170dp"
         tools:layout_editor_absoluteY="210dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="98dp" />
 </android.support.constraint.ConstraintLayout>
